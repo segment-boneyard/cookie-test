@@ -1,0 +1,12 @@
+{
+  "name": "cookie-test",
+  "repo": "segmentio/cookie-test",
+  "description": "Testing component for cookies",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": ["index.js"]
+}
